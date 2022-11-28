@@ -33,9 +33,10 @@ Devuelve True o False determinando si el valor está en la lista.
 ## Ejercicio 1 
 
 | Lenguaje | Forma de Ejecución | Nivel de Abstracción | Paradigmas de Programación | Año de Aparición | Autor
-| --- | --- | --- | --- | --- | ---|
+| --- | --- | --- | --- | --- | --- |
 | JAVA | El entorno de ejecución de Java (JRE) combina el código de Java creado. Para ello, utiliza el kit de desarrollo de Java (JDK) con código adicional incorporado que se denomina bibliotecas |
 | JavaScript | El programa se ejecuta desde un formato binario, que se generó a partir del código fuente del programa original. JavaScript es un lenguaje de programación interpretado ligero. El navegador web recibe el código JavaScript en su forma de texto original y ejecuta el script a partir de ahí. |
-| C | Show file differences that **haven't been** staged |
-| Python | Show file differences that **haven't been** staged |
-| PHP | Show file differences that **haven't been** staged |
+| C | Cada programa de C tiene una función principal a la que se debe llamar main. La función main sirve como punto de partida para la ejecución del programa. Normalmente, controla la ejecución del programa dirigiendo las llamadas a otras funciones del programa. |
+| Python | Puede ejecutar un script Python desde Programas de utilidad > Ejecutar script o desde el editor de scripts Python, que se ha iniciado al abrir un archivo Python (*. py) desde Archivo > Abrir > Script. |
+| PHP | Hay dos maneras de ejecutar archivos PHP. La manera preferida de ejecutar archivos PHP es dentro de un servidor web como Apache, Nginx o ISS; esto te permite ejecutar scripts de PHP desde tu navegador. |
+
